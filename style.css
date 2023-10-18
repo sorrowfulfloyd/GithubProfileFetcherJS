@@ -1,0 +1,24 @@
+#profilePicture {
+  padding: 5px;
+  border: 1px solid black;
+  width: 0px;
+  visibility: hidden;
+}
+
+button {
+  margin-right: 5px;
+}
+
+.searcher {
+  margin: 25px;
+}
+
+.searcher input {
+  margin-right: 10px;
+}
+
+.userData {
+  margin: 25px;
+  padding: 10px;
+  min-width: 250px;
+}
